@@ -1,6 +1,6 @@
 # 🪙 Oryx Wallet Generator
 
-A desktop tool to generate crypto wallets for multiple chains (EVM, Solana, Cosmos, SUI) with export options like JSON, TXT, or CSV. Built with Python and Tkinter, and compiled to `.exe` using Nuitka.
+A desktop tool to generate crypto wallets for multiple chains (EVM, Solana, Cosmos) with export options like JSON, TXT, or CSV. Built with Python and Tkinter, and compiled to `.exe` using Nuitka.
 
 ---
 
@@ -10,7 +10,6 @@ A desktop tool to generate crypto wallets for multiple chains (EVM, Solana, Cosm
   - EVM (Ethereum-compatible)
   - Solana
   - Cosmos
-  - SUI
 - ✅ Show wallet address, mnemonic phrase, and private key
 - ✅ Export result as `.json`, `.csv`, or `.txt`
 - ✅ GUI built with Tkinter
