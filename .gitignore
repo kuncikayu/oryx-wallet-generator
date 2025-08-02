@@ -1,0 +1,49 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Output files and folders
+output/
+*.txt
+*.json
+*.csv
+*.log
+
+# Build artifacts (PyInstaller / Nuitka)
+*.exe
+*.app
+*.dll
+*.so
+*.spec
+
+# PyInstaller/Nuitka cache & build directories
+oryx_generator.build/
+oryx_generator.dist/
+oryx_generator.onefile-build/
+.nuitka-cache/
+*.nuitka-cache
+build/
+dist/
+
+# PIP metadata
+*.egg-info/
+.eggs/
+pip-delete-this-directory.txt
+pip-log.txt
+
+# Coverage / test cache
+.pytest_cache/
+htmlcov/
+coverage.xml
